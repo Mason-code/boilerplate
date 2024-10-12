@@ -1,3 +1,3 @@
-# First NHHS Game
+# SFML start-up stuff
 
-The NHHS Game Development Club's first project.
+how to - https://www.youtube.com/watch?v=c8G8XTccYOQ&t=10s
